@@ -188,7 +188,7 @@
           <img src="/images/people-support.svg" alt="Icono con Personas" />
         </div>
         <div class="flex-grow">
-          <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Relaciones</h2>
+          <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Conexiones</h2>
           <p class="leading-relaxed text-base">
             Las conexiones sociales positivas pueden mejorar la salud física al fortalecer el sistema inmunológico y aumentar la longevidad.
           </p>

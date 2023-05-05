@@ -41,7 +41,7 @@
 
         <li>
           <a class="text-gray-700 transition hover:text-gray-700/75" href="/relation">
-            Relaciones 
+            Conexiones 
           </a>
         </li>
 

@@ -7,7 +7,7 @@
 </script>
 
 
-<nav class="bg-teal-500 border-gray-200 px-2 sm:px-4 py-2.5 rounded">
+<nav class="border-gray-200 px-2 sm:px-4 py-2.5 rounded bg-gradient-to-r from-teal-500 to-green-500">
     <div class="container flex flex-wrap items-center justify-between mx-auto">
       <a href="/" class="flex items-center">
           <img src="/images/mev-logo.svg" class="h-8 mr-3 sm:h-14" alt="MEV Logo" />
@@ -35,7 +35,7 @@
             <a href="/sleep" class="links">Sueño</a>
           </li>
           <li>
-            <a href="/relation" class="links">Relaciones</a>
+            <a href="/relation" class="links">Conexiones</a>
           </li>
           <li>
             <a href="/toxic" class="links">Tóxicos</a>
